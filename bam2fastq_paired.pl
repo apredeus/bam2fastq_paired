@@ -90,7 +90,6 @@ if ($last_read eq "R1") {
 }
     
 ## notice that we basically start from line 2. 
-B
 
 while ( read_line ) { 
   $count++; 
